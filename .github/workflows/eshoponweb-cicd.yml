@@ -9,7 +9,7 @@ env:
   LOCATION: southeastasia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 92bbe424-cd2a-4d65-a0e5-a84502c47c8b
-  WEBAPP-NAME: eshoponweb-webapp-Nantha79
+  WEBAPP-NAME: eshoponweb-webapp-Nantha7918
 
 
 jobs:
